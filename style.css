@@ -1,0 +1,32 @@
+body {
+    background-image: url("Bg image.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.fa-linkedin{
+    padding: 20px;
+    margin: 5px;
+    
+    width: 50px;
+    text-align: center;
+    border-radius: 60%;
+    background-color:white;
+}
+.fa-github{
+    padding: 20px;
+    margin: 5px;
+    width: 50px;
+    text-align: center;
+    border-radius: 60%;
+    background-color: white;
+}
+.fa-instagram{
+    padding: 20px;
+    margin: 5px;
+    width: 50px;
+    text-align: center;
+    border-radius: 60%;
+    background-color: white;
+}
+
